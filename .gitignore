@@ -1,0 +1,36 @@
+# Outputs #
+*.out
+
+# environment #
+
+environment/*
+
+# pycache #
+
+*__pycache__
+
+# ipynb checkpoints #
+
+*.ipynb_checkpoints/*
+source/.ipynb_checkpoints/
+source/functions/.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+#extracted_videos
+*.mp4
+
+#extracted data
+*.pickle
+
+#axiliary tex files
+*.tex
+*.aux
+*.log
+*.synctex.gz
+*.toc
+*.nav
+*.snm
+
+#images needed for report
+car_racing_image.png
+auto_encoder.png
