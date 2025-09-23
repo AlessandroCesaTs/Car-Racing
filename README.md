@@ -16,4 +16,4 @@ In order to reproduce the results you need to at first clone the repository and 
 
 Now, if you just want to run the simulation, run `drive.sh`. The script is intended for running with the command `sbatch` in a cluster with the slurm job scheduler; otherwise you can just delete the lines starting with `#SBATCH` and run it like a normal Shell script.
 
-If you want to train the model from scratch, you'll fist have to generate the dataset running `generate_data.sh` and then train the model running `learn_system.sh` (as before, modify the scripts if you're not using slurm).
+If you want to train the model from scratch, you'll first have to generate the dataset running `generate_data.sh` and then train the model running `learn_system.sh` (as before, modify the scripts if you're not using slurm).
