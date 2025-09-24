@@ -1,5 +1,5 @@
 # Car Racing
-This repository contains the report and the code of the project of Alessandro Cesa for the exam in Cyber Physical Systems Project and Pattern Recognition by prof. Laura Nenzi, in the academic year 2023/24
+This repository contains the report and the code of the project of Alessandro Cesa for the exam in Cyber Physical Systems Project by prof. Laura Nenzi, in the academic year 2023/24
 
 The project consists in controlling with Model Predictive Control the car of the "Car Racing" environment from Gym, using an Auto Encoder deep neural Network.
 
